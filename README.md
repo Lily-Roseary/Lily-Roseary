@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Viktorie Žižková
-- 👀 I’m interested in finging new opportunities for IT people
+- 👀 I’m interested in finding new opportunities for IT people
 - 🌱 I’m currently learning how to do that on Github :D
 - 💞️ I’m looking to collaborate on so many projects with you all
 - 📫 How to reach me: viktorie.zizkova@anywhere.cz
